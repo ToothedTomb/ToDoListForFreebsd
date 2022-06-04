@@ -1,4 +1,4 @@
-# ToDoListForFreeBSD 2.0!
+# ToDoListForFreeBSD 3.0!
 Basic To Do List for FreeBSD that is still in development.
 :)
 Install Ubuntu font in the terminal: pkg install x11-fonts/ubuntu-font
